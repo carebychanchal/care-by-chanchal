@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://carebychanchal.github.io/care-by-chanchal/sitemap.xml
